@@ -36,8 +36,8 @@ It includes information relating to patient demographics, appointment dates, med
 5. Interpretation of findings and recommendations.
 
 ## Dashboard Preview!
-[Medical Appointment No-Show Dashboard](Medical%20Appointment%20No-show-DashBoard.png)
 
+![Medical Appointment No-Show Dashboard](./Medical%20Appointment%20No-show-DashBoard.png)
 
 
 ## Key Questions
