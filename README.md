@@ -35,9 +35,10 @@ It includes information relating to patient demographics, appointment dates, med
 4. Dashboard development.
 5. Interpretation of findings and recommendations.
 
-## Dashboard Preview
+## Dashboard Preview!
+[Medical Appointment No-Show Dashboard](Medical%20Appointment%20No-show-DashBoard.png)
 
-![Dashboard Preview](images/dashboard.png)
+
 
 ## Key Questions
 - What is the overall no-show rate?
